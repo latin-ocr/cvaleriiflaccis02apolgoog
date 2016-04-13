@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cvaleriiflaccis02apolgoog_0009.png"; bbox 0 0 3002 4680; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 281 1668 1127 1796">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 281 1668 1127 1796">
+     <span class='ocr_line' id='line_1_1' title="bbox 281 1668 1127 1796; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 281 1671 350 1796; x_wconf 92' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 384 1668 767 1794; x_wconf 84' lang='lat' dir='ltr'><strong>VALERII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 804 1668 1127 1795; x_wconf 88' lang='lat' dir='ltr'>FLACCI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 281 1957 941 2064">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 281 1957 941 2064">
+     <span class='ocr_line' id='line_1_2' title="bbox 281 1957 941 2064; baseline 0.002 -1"><span class='ocrx_word' id='word_1_4' title='bbox 281 2035 285 2042; x_wconf 90' lang='lat'>-</span> <span class='ocrx_word' id='word_1_5' title='bbox 470 1973 701 2064; x_wconf 89' lang='lat' dir='ltr'><strong>SETINI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 746 1957 941 2064; x_wconf 86' lang='lat' dir='ltr'><strong>BALBI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 222 2219 1177 2384">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 17 2143 1177 2436">
+     <span class='ocr_line' id='line_1_3' title="bbox 222 2219 1177 2384; baseline 0.003 -6.293"><span class='ocrx_word' id='word_1_7' title='bbox 222 2219 1177 2384; x_wconf 79' lang='lat' dir='ltr'><strong>ARGONAUTICON</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 447 2544 968 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 447 2544 968 2684">
+     <span class='ocr_line' id='line_1_4' title="bbox 447 2544 968 2684; baseline 0.004 -54"><span class='ocrx_word' id='word_1_8' title='bbox 447 2544 663 2684; x_wconf 61' lang='lat' dir='ltr'>{ABER</span> <span class='ocrx_word' id='word_1_9' title='bbox 700 2544 968 2634; x_wconf 86' lang='lat' dir='ltr'>SEXTUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1506 4680">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1506 4680">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1506 4680; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1506 4680; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
